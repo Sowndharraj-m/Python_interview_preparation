@@ -6,6 +6,11 @@ Explain Python’s dynamic typing.
 What is indentation in Python and why is it important?
 What are Python keywords?
 What is the difference between is and ==?
+What is the difference between shallow copy and deep copy?
+What are *args and **kwargs?
+What is the difference between a function and a method?
+
+
 
 what are the key features of Python?
    
